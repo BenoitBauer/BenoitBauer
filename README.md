@@ -4,10 +4,11 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&color=FF8C00&lines=En+formation+Développeur+Web+à+l’ALAJI+🧠💻;En+route+vers+la+création+de+ma+micro-entreprise+🚀💫;Créatif,+curieux+et+déterminé+🎨⚡;Passionné+de+vinyles+et+d’univers+vintage+🎶🕶️;Gamer+dans+l’âme+🎮🔥"
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=600&size=22&duration=4000&pause=1200&center=true&vCenter=true&width=900&color=FF8C00&lines=En+formation+Développeur+Web+à+l’ALAJI+🧠💻;En+route+vers+la+création+de+ma+micro-entreprise+🚀💫;Créatif,+curieux+et+déterminé+🎨⚡;Passionné+de+vinyles+et+d’univers+vintage+🎶🕶️;Gamer+dans+l’âme+🎮🔥"
     alt="Typing animation"
   />
 </p>
+
 
 ---
 
