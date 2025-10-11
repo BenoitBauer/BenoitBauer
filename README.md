@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Benoît Bauer alias Beu’
+# 👋 Salut, je suis Benoit Bauer alias Beu’
 
 💡 Créatif autodidacte en formation Développeur Web à l’ALAJI, basé à Verdun (Meuse)
 
