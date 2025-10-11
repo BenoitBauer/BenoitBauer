@@ -33,6 +33,36 @@ basé dans la Meuse (55)
 </p>
 
 ---
+<h3 align="center">🌐 Où me trouver :</h3>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/benoitbauer/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="LinkedIn" />
+  </a>
+  <!-- Viadeo (JDN) -->
+  <a href="https://viadeo.journaldunet.com/p/benoit-bauer-8088011" target="_blank" rel="noopener noreferrer" title="Viadeo (JDN)">
+    <img src="https://cdn.simpleicons.org/viadeo" height="50" alt="Viadeo" />
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/benoitbauer.officiel" target="_blank" rel="noopener noreferrer" title="Facebook">
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="50" alt="Facebook" />
+  </a>
+  <!-- Instagram (perso/pro) -->
+  <a href="https://www.instagram.com/benoitbaueroff/" target="_blank" rel="noopener noreferrer" title="Instagram — benoitbaueroff">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram benoitbaueroff" />
+  </a>
+  <!-- Instagram (L’atelier de Beu’) -->
+  <a href="https://www.instagram.com/latelier_de_beu/" target="_blank" rel="noopener noreferrer" title="Instagram — L’atelier de Beu’">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram L’atelier de Beu’" />
+  </a>
+  <!-- Instagram (Vénus la Kangal) -->
+  <a href="https://www.instagram.com/venuslakangal/" target="_blank" rel="noopener noreferrer" title="Instagram — Vénus la Kangal">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram Vénus la Kangal" />
+  </a>
+</p>
+
+---
 
 ### 📊 Mes statistiques GitHub :
 
