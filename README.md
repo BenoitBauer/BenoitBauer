@@ -42,6 +42,8 @@ basé dans la Meuse (55)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitBauer&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
 </p>
 
+---
+
 <h3>🧭 Mon parcours :</h3>
 
 <ul>
