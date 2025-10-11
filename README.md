@@ -34,8 +34,6 @@ basé dans la Meuse (55)
 
 ---
 
----
-
 ### 📊 Mes statistiques GitHub :
 
 <p align="center">
