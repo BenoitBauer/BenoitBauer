@@ -27,9 +27,15 @@
 
 ---
 
+---
+
 ### 📊 Mes statistiques GitHub :
-![Benoit Bauer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenoitBauer&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitBauer&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenoitBauer&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenoitBauer&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitBauer&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
+</p>
 
 
 
