@@ -44,23 +44,24 @@ basé dans la Meuse (55)
   <a href="https://viadeo.journaldunet.com/p/benoit-bauer-8088011" target="_blank" rel="noopener noreferrer" title="Viadeo (JDN)">
     <img src="https://cdn.simpleicons.org/viadeo" height="50" alt="Viadeo" />
   </a>
-  <!-- Facebook -->
+  <!-- Facebook (fix SimpleIcons) -->
   <a href="https://www.facebook.com/benoitbauer.officiel" target="_blank" rel="noopener noreferrer" title="Facebook">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="50" alt="Facebook" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="Facebook" />
   </a>
-  <!-- Instagram (perso/pro) -->
+  <!-- Instagram — benoitbaueroff -->
   <a href="https://www.instagram.com/benoitbaueroff/" target="_blank" rel="noopener noreferrer" title="Instagram — benoitbaueroff">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram benoitbaueroff" />
   </a>
-  <!-- Instagram (L’atelier de Beu’) -->
+  <!-- Instagram — L’atelier de Beu’ -->
   <a href="https://www.instagram.com/latelier_de_beu/" target="_blank" rel="noopener noreferrer" title="Instagram — L’atelier de Beu’">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram L’atelier de Beu’" />
   </a>
-  <!-- Instagram (Vénus la Kangal) -->
+  <!-- Instagram — Vénus la Kangal -->
   <a href="https://www.instagram.com/venuslakangal/" target="_blank" rel="noopener noreferrer" title="Instagram — Vénus la Kangal">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram Vénus la Kangal" />
   </a>
 </p>
+
 
 ---
 
