@@ -28,8 +28,6 @@ basé dans la Meuse (55)
 
 <h3 align="center">🛠️ Langages et outils :</h3>
 
-<h3 align="center">🛠️ Langages et outils :</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,github&theme=dark" height="50" />
 </p>
