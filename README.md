@@ -1,9 +1,9 @@
 <h1 align="center">👋 Salut, je suis Benoit Bauer alias Beu’</h1>
 
-<h3 align="center">
+<h4 align="center">
 💡 Créatif autodidacte en formation Développeur Web à l’ALAJI,<br>
 basé dans la Meuse (55)
-</h3>
+</h4>
 
 <p align="center">
   <img
