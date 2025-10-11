@@ -9,4 +9,27 @@
   />
 </p>
 
+---
+
+### 🧩 Un peu plus à mon sujet…
+
+- 🚀 En reconversion professionnelle dans le numérique  
+- 💡 J’aime apprendre, créer et transformer mes idées en projets concrets  
+- 🧠 Je me forme actuellement au développement web à l’ALAJI  
+- 🤝 Ouvert à collaborer sur des projets créatifs, web ou graphiques  
+- 🎵 Passionné par la musique, le vintage et la culture pop  
+- ⚡ Gamer et curieux de tout ce qui touche au design et à la tech  
+
+---
+
+### 🛠️ Langages et outils :
+![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,github)
+
+---
+
+### 📊 Mes statistiques GitHub :
+![Benoit Bauer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenoitBauer&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitBauer&layout=compact&theme=tokyonight)
+
+
 
