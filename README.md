@@ -2,7 +2,7 @@
 
 <h3 align="center">
 💡 Créatif autodidacte en formation Développeur Web à l’ALAJI,<br>
-basé à Verdun (Meuse)
+basé dans la Meuse (55)
 </h3>
 
 <p align="center">
