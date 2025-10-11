@@ -9,7 +9,6 @@
   />
 </p>
 
-
 ---
 
 ### 🧩 Un peu plus à mon sujet…
