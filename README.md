@@ -19,8 +19,7 @@ basé dans la Meuse (55)
 
 - 🚀 En reconversion professionnelle dans le numérique  
 - 💡 J’aime apprendre, créer et transformer mes idées en projets concrets  
-- 🧠 Je me forme actuellement au développement web à l’ALAJI  
-- 🤝 Ouvert à collaborer sur des projets créatifs, web ou graphiques  
+- 🧠 Je me forme actuellement au développement web à l’ALAJI   
 - 🎵 Passionné par la musique, le vintage et la culture pop  
 - ⚡ Gamer et curieux de tout ce qui touche au design et à la tech  
 
