@@ -57,33 +57,3 @@ basé dans la Meuse (55)
   <li><strong>2021 – 2022 :</strong> <strong>BAC Professionnel Logistique</strong> – GRETA, Verdun 🎓</li>
   <li><strong>En parallèle :</strong> Bénévolat & engagement associatif à Verdun 🤝</li>
 </ul>
-
----
-<h3 align="center">🌐 Où me trouver :</h3>
-
-<p align="center" style="text-decoration:none;">
-  <a href="https://www.linkedin.com/in/benoitbauer/" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="LinkedIn" />
-  </a>
-  <a href="https://viadeo.journaldunet.com/p/benoit-bauer-8088011" target="_blank" rel="noopener noreferrer" title="Viadeo (JDN)" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/viadeo" height="50" alt="Viadeo" />
-  </a>
-  <a href="https://www.facebook.com/benoitbauer.officiel" target="_blank" rel="noopener noreferrer" title="Facebook" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/benoitbaueroff/" target="_blank" rel="noopener noreferrer" title="Instagram — benoitbaueroff" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram benoitbaueroff" />
-  </a>
-  <a href="https://www.instagram.com/latelier_de_beu/" target="_blank" rel="noopener noreferrer" title="Instagram — L’atelier de Beu’" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram L’atelier de Beu’" />
-  </a>
-  <a href="https://www.instagram.com/venuslakangal/" target="_blank" rel="noopener noreferrer" title="Instagram — Vénus la Kangal" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" alt="Instagram Vénus la Kangal" />
-  </a>
-</p>
-
-
-
-
-
-
