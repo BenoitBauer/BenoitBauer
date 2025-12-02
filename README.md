@@ -37,8 +37,11 @@ basé dans la Meuse (55)
 ### 📊 Mes statistiques GitHub :
 
 <p align="center">
-  <!-- Stats générales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BenoitBauer&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=1800&v=3" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenoitBauer&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenoitBauer&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenoitBauer&theme=tokyonight" />
+</p>
+
 
   <!-- Streak (nouveau domaine, cache busting) -->
   <img src="https://streak-stats.demolab.com?user=BenoitBauer&theme=tokyonight&hide_border=false&border_radius=10&v=3" height="150" />
