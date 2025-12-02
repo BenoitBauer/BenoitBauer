@@ -42,14 +42,6 @@ basé dans la Meuse (55)
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenoitBauer&theme=tokyonight" />
 </p>
 
-
-  <!-- Streak (nouveau domaine, cache busting) -->
-  <img src="https://streak-stats.demolab.com?user=BenoitBauer&theme=tokyonight&hide_border=false&border_radius=10&v=3" height="150" />
-
-  <!-- Langages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitBauer&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=1800&v=3" height="150" />
-</p>
-
 ---
 
 <h3>🧭 Mon parcours :</h3>
